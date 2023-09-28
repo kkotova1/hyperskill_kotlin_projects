@@ -1,2 +1,2 @@
 # hyperskill_kotlin_projects
-My solvation of Hyperskill projects
+My Hyperskill Kotlin Projects
